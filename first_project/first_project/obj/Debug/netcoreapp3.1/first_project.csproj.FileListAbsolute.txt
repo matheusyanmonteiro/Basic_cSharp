@@ -1,0 +1,11 @@
+C:\Users\Matheus.Monteiro\Documents\udemy\first_project\first_project\bin\Debug\netcoreapp3.1\first_project.exe
+C:\Users\Matheus.Monteiro\Documents\udemy\first_project\first_project\bin\Debug\netcoreapp3.1\first_project.deps.json
+C:\Users\Matheus.Monteiro\Documents\udemy\first_project\first_project\bin\Debug\netcoreapp3.1\first_project.runtimeconfig.json
+C:\Users\Matheus.Monteiro\Documents\udemy\first_project\first_project\bin\Debug\netcoreapp3.1\first_project.runtimeconfig.dev.json
+C:\Users\Matheus.Monteiro\Documents\udemy\first_project\first_project\bin\Debug\netcoreapp3.1\first_project.dll
+C:\Users\Matheus.Monteiro\Documents\udemy\first_project\first_project\bin\Debug\netcoreapp3.1\first_project.pdb
+C:\Users\Matheus.Monteiro\Documents\udemy\first_project\first_project\obj\Debug\netcoreapp3.1\first_project.csprojAssemblyReference.cache
+C:\Users\Matheus.Monteiro\Documents\udemy\first_project\first_project\obj\Debug\netcoreapp3.1\first_project.AssemblyInfoInputs.cache
+C:\Users\Matheus.Monteiro\Documents\udemy\first_project\first_project\obj\Debug\netcoreapp3.1\first_project.AssemblyInfo.cs
+C:\Users\Matheus.Monteiro\Documents\udemy\first_project\first_project\obj\Debug\netcoreapp3.1\first_project.dll
+C:\Users\Matheus.Monteiro\Documents\udemy\first_project\first_project\obj\Debug\netcoreapp3.1\first_project.pdb

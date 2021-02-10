@@ -1,0 +1,11 @@
+C:\Users\Matheus.Monteiro\Documents\udemy\secondproject\secondproject\bin\Debug\netcoreapp3.1\secondproject.exe
+C:\Users\Matheus.Monteiro\Documents\udemy\secondproject\secondproject\bin\Debug\netcoreapp3.1\secondproject.deps.json
+C:\Users\Matheus.Monteiro\Documents\udemy\secondproject\secondproject\bin\Debug\netcoreapp3.1\secondproject.runtimeconfig.json
+C:\Users\Matheus.Monteiro\Documents\udemy\secondproject\secondproject\bin\Debug\netcoreapp3.1\secondproject.runtimeconfig.dev.json
+C:\Users\Matheus.Monteiro\Documents\udemy\secondproject\secondproject\bin\Debug\netcoreapp3.1\secondproject.dll
+C:\Users\Matheus.Monteiro\Documents\udemy\secondproject\secondproject\bin\Debug\netcoreapp3.1\secondproject.pdb
+C:\Users\Matheus.Monteiro\Documents\udemy\secondproject\secondproject\obj\Debug\netcoreapp3.1\secondproject.csprojAssemblyReference.cache
+C:\Users\Matheus.Monteiro\Documents\udemy\secondproject\secondproject\obj\Debug\netcoreapp3.1\secondproject.AssemblyInfoInputs.cache
+C:\Users\Matheus.Monteiro\Documents\udemy\secondproject\secondproject\obj\Debug\netcoreapp3.1\secondproject.AssemblyInfo.cs
+C:\Users\Matheus.Monteiro\Documents\udemy\secondproject\secondproject\obj\Debug\netcoreapp3.1\secondproject.dll
+C:\Users\Matheus.Monteiro\Documents\udemy\secondproject\secondproject\obj\Debug\netcoreapp3.1\secondproject.pdb
