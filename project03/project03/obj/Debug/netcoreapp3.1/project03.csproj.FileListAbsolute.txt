@@ -1,0 +1,11 @@
+C:\Users\Matheus.Monteiro\source\repos\project03\project03\bin\Debug\netcoreapp3.1\project03.exe
+C:\Users\Matheus.Monteiro\source\repos\project03\project03\bin\Debug\netcoreapp3.1\project03.deps.json
+C:\Users\Matheus.Monteiro\source\repos\project03\project03\bin\Debug\netcoreapp3.1\project03.runtimeconfig.json
+C:\Users\Matheus.Monteiro\source\repos\project03\project03\bin\Debug\netcoreapp3.1\project03.runtimeconfig.dev.json
+C:\Users\Matheus.Monteiro\source\repos\project03\project03\bin\Debug\netcoreapp3.1\project03.dll
+C:\Users\Matheus.Monteiro\source\repos\project03\project03\bin\Debug\netcoreapp3.1\project03.pdb
+C:\Users\Matheus.Monteiro\source\repos\project03\project03\obj\Debug\netcoreapp3.1\project03.csprojAssemblyReference.cache
+C:\Users\Matheus.Monteiro\source\repos\project03\project03\obj\Debug\netcoreapp3.1\project03.AssemblyInfoInputs.cache
+C:\Users\Matheus.Monteiro\source\repos\project03\project03\obj\Debug\netcoreapp3.1\project03.AssemblyInfo.cs
+C:\Users\Matheus.Monteiro\source\repos\project03\project03\obj\Debug\netcoreapp3.1\project03.dll
+C:\Users\Matheus.Monteiro\source\repos\project03\project03\obj\Debug\netcoreapp3.1\project03.pdb

@@ -1,0 +1,11 @@
+C:\Users\Matheus.Monteiro\source\repos\static_members\static_members\bin\Debug\netcoreapp3.1\static_members.exe
+C:\Users\Matheus.Monteiro\source\repos\static_members\static_members\bin\Debug\netcoreapp3.1\static_members.deps.json
+C:\Users\Matheus.Monteiro\source\repos\static_members\static_members\bin\Debug\netcoreapp3.1\static_members.runtimeconfig.json
+C:\Users\Matheus.Monteiro\source\repos\static_members\static_members\bin\Debug\netcoreapp3.1\static_members.runtimeconfig.dev.json
+C:\Users\Matheus.Monteiro\source\repos\static_members\static_members\bin\Debug\netcoreapp3.1\static_members.dll
+C:\Users\Matheus.Monteiro\source\repos\static_members\static_members\bin\Debug\netcoreapp3.1\static_members.pdb
+C:\Users\Matheus.Monteiro\source\repos\static_members\static_members\obj\Debug\netcoreapp3.1\static_members.csprojAssemblyReference.cache
+C:\Users\Matheus.Monteiro\source\repos\static_members\static_members\obj\Debug\netcoreapp3.1\static_members.AssemblyInfoInputs.cache
+C:\Users\Matheus.Monteiro\source\repos\static_members\static_members\obj\Debug\netcoreapp3.1\static_members.AssemblyInfo.cs
+C:\Users\Matheus.Monteiro\source\repos\static_members\static_members\obj\Debug\netcoreapp3.1\static_members.dll
+C:\Users\Matheus.Monteiro\source\repos\static_members\static_members\obj\Debug\netcoreapp3.1\static_members.pdb
