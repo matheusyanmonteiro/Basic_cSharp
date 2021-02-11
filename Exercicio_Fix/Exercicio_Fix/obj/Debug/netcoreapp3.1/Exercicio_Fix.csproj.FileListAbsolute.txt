@@ -1,0 +1,11 @@
+C:\Users\Matheus.Monteiro\Documents\udemy\Exercicio_Fix\Exercicio_Fix\bin\Debug\netcoreapp3.1\Exercicio_Fix.exe
+C:\Users\Matheus.Monteiro\Documents\udemy\Exercicio_Fix\Exercicio_Fix\bin\Debug\netcoreapp3.1\Exercicio_Fix.deps.json
+C:\Users\Matheus.Monteiro\Documents\udemy\Exercicio_Fix\Exercicio_Fix\bin\Debug\netcoreapp3.1\Exercicio_Fix.runtimeconfig.json
+C:\Users\Matheus.Monteiro\Documents\udemy\Exercicio_Fix\Exercicio_Fix\bin\Debug\netcoreapp3.1\Exercicio_Fix.runtimeconfig.dev.json
+C:\Users\Matheus.Monteiro\Documents\udemy\Exercicio_Fix\Exercicio_Fix\bin\Debug\netcoreapp3.1\Exercicio_Fix.dll
+C:\Users\Matheus.Monteiro\Documents\udemy\Exercicio_Fix\Exercicio_Fix\bin\Debug\netcoreapp3.1\Exercicio_Fix.pdb
+C:\Users\Matheus.Monteiro\Documents\udemy\Exercicio_Fix\Exercicio_Fix\obj\Debug\netcoreapp3.1\Exercicio_Fix.csprojAssemblyReference.cache
+C:\Users\Matheus.Monteiro\Documents\udemy\Exercicio_Fix\Exercicio_Fix\obj\Debug\netcoreapp3.1\Exercicio_Fix.AssemblyInfoInputs.cache
+C:\Users\Matheus.Monteiro\Documents\udemy\Exercicio_Fix\Exercicio_Fix\obj\Debug\netcoreapp3.1\Exercicio_Fix.AssemblyInfo.cs
+C:\Users\Matheus.Monteiro\Documents\udemy\Exercicio_Fix\Exercicio_Fix\obj\Debug\netcoreapp3.1\Exercicio_Fix.dll
+C:\Users\Matheus.Monteiro\Documents\udemy\Exercicio_Fix\Exercicio_Fix\obj\Debug\netcoreapp3.1\Exercicio_Fix.pdb
