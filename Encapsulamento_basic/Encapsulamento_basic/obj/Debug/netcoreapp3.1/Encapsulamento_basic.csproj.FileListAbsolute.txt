@@ -1,0 +1,13 @@
+C:\Users\Matheus.Monteiro\Documents\CursoUdemy\Basic_cSharp\Encapsulamento_basic\Encapsulamento_basic\bin\Debug\netcoreapp3.1\Encapsulamento_basic.exe
+C:\Users\Matheus.Monteiro\Documents\CursoUdemy\Basic_cSharp\Encapsulamento_basic\Encapsulamento_basic\bin\Debug\netcoreapp3.1\Encapsulamento_basic.deps.json
+C:\Users\Matheus.Monteiro\Documents\CursoUdemy\Basic_cSharp\Encapsulamento_basic\Encapsulamento_basic\bin\Debug\netcoreapp3.1\Encapsulamento_basic.runtimeconfig.json
+C:\Users\Matheus.Monteiro\Documents\CursoUdemy\Basic_cSharp\Encapsulamento_basic\Encapsulamento_basic\bin\Debug\netcoreapp3.1\Encapsulamento_basic.runtimeconfig.dev.json
+C:\Users\Matheus.Monteiro\Documents\CursoUdemy\Basic_cSharp\Encapsulamento_basic\Encapsulamento_basic\bin\Debug\netcoreapp3.1\Encapsulamento_basic.dll
+C:\Users\Matheus.Monteiro\Documents\CursoUdemy\Basic_cSharp\Encapsulamento_basic\Encapsulamento_basic\bin\Debug\netcoreapp3.1\Encapsulamento_basic.pdb
+C:\Users\Matheus.Monteiro\Documents\CursoUdemy\Basic_cSharp\Encapsulamento_basic\Encapsulamento_basic\obj\Debug\netcoreapp3.1\Encapsulamento_basic.csprojAssemblyReference.cache
+C:\Users\Matheus.Monteiro\Documents\CursoUdemy\Basic_cSharp\Encapsulamento_basic\Encapsulamento_basic\obj\Debug\netcoreapp3.1\Encapsulamento_basic.AssemblyInfoInputs.cache
+C:\Users\Matheus.Monteiro\Documents\CursoUdemy\Basic_cSharp\Encapsulamento_basic\Encapsulamento_basic\obj\Debug\netcoreapp3.1\Encapsulamento_basic.AssemblyInfo.cs
+C:\Users\Matheus.Monteiro\Documents\CursoUdemy\Basic_cSharp\Encapsulamento_basic\Encapsulamento_basic\obj\Debug\netcoreapp3.1\Encapsulamento_basic.csproj.CoreCompileInputs.cache
+C:\Users\Matheus.Monteiro\Documents\CursoUdemy\Basic_cSharp\Encapsulamento_basic\Encapsulamento_basic\obj\Debug\netcoreapp3.1\Encapsulamento_basic.dll
+C:\Users\Matheus.Monteiro\Documents\CursoUdemy\Basic_cSharp\Encapsulamento_basic\Encapsulamento_basic\obj\Debug\netcoreapp3.1\Encapsulamento_basic.pdb
+C:\Users\Matheus.Monteiro\Documents\CursoUdemy\Basic_cSharp\Encapsulamento_basic\Encapsulamento_basic\obj\Debug\netcoreapp3.1\Encapsulamento_basic.genruntimeconfig.cache
